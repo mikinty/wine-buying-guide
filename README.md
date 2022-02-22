@@ -13,10 +13,11 @@ When judging a wine merchant, here are some criteria:
 
 ## Contents
 
-- [New York](#new-york)
-- [California](#california)
-- [Online](#online)
+- [New York](#new-york): greatest city in the world
+- [California](#california): greatest wine state in the US
+- [Online](#online): convenient
 - [Thoughts on Popular Wine Shops](#thoughts-on-popular-wine-shops): Total Wine, Trader Joe's, Supermarkets
+- [What to Watch Out For](#what-to-watch-out-for): tips to not get scammed
 
 ## New York
 
@@ -52,3 +53,14 @@ A few warnings about Vivino
 - Wegman's: Known as the "Disneyworld of supermarkets," Wegman's usually has a large selection of wines, and depending on your area and Wegman's wine manager, can have really nice wines as well, especially if there is a *Fine Wine Room*. In terms of pricing, it's around Supermarket pricing, which is, it will rarely be overpriced, but usually won't be very underpriced as well. A reliable place to buy wine for everyday drinking, and if you want an expensive bottle, you won't get ripped off. However, because of no discounts, more expensive wines are better found at auctions or during a sale at another importer.
 - Supermarkets (e.g. Whole Foods, Safeway): Simliar to Wegman's, but with less selection, supermarkets often have a decent selection of good, bad and popular (which can be good and bad) wines, priced around market value. Some places like Whole Foods and Safeway have discounts for being a member, or buying in bulk, which you should take advantage of. In terms of selection, you should expect wines $50 and under, and rarely see any bottles above the $50 range. I don't mind buying at supermarkets since it's usually not a super expensive wine, and I know I won't be getting ripped off.
 
+## What to Watch Out For
+
+If you're on the bargain for wine, here are some tips to help you make sure you get the highest quality wine out of your wallet:
+
+- For the most common wines you buy, remember their price points. This is a great way to judge a wine store immediately. For example, if you know that a Caymus sells for $75 on market, and you see one for $90 in the store you're in, it might be a good idea to head out. Of course, there might be flukes, so more data points help. Memorize a few wines to help yourself avoid very marked up wine stores.
+- Boutique wine stores: small wine stores in general have to mark up wine prices because they can't source a large amount of wine, they have less staff, and they rely on locality to grab more service. All of these point to charging higher margins to keep their business going. Although there's nothing wrong in buying from these stores, especially if you want to support local businesses, it's generally hard to find a good deal at small wine shops.
+- Learning more about wine. There are many ways to do this, but I'll list some of my favorite resources below. Understanding wine will not only help you find what wines you like, but be a better party host, and choose more suitable wines for your group when you go out to eat. It's a great skill that can last for a lifetime and increase enjoyment in many occasions.
+    - [Wine Folly](https://winefolly.com/): Maddy Puckette knows a ton about wine and has the perfect personality to teach it to others. There are lots of free materials online, and her book is decent as well.
+    - [The Wine Bible](https://amzn.to/3BLRLz5): It's not super deep in some categories, but this book does read pretty easily, so it's good for an introduction to the world of wine. It is definitely a long book though.
+    - [WSET](https://www.wsetglobal.com/): This is the start of formal wine education. WSET is a London-based wine school that awards certifications for completing courses related to viniculture and viticulture. These wine courses are more focused on theory, meaning grape varietals, growing and regions, rather than service, and is thus more accessible to the average person. Courses are not as pricey as CMS, and I would recommend WSET 2 as a starter course if you're interested in wine, since WSET 1 doesn't cover a whole lot, and can be easily learned just by being moderately interested in wine.
+    - [Court of Master Sommeliers](https://www.mastersommeliers.org/): If you want to become a sommelier in the US, this is definitely the way to go. However, it is very expensive, and usually isn't worth it unless you're actually going to be working as a Sommelier in the Hospitality industry. Usually CMS level 2 would be an entry requirement for a Somm in industry.
