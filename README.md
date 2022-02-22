@@ -11,6 +11,13 @@ When judging a wine merchant, here are some criteria:
 - *Delivery*: Does the place offer delivery, safe for your wines, and at a reasonable cost?
 - *Authenticity*: are the wines here likely to be authentic, and not fabricated ones?
 
+## Contents
+
+- [New York](#new-york)
+- [California](#california)
+- [Online](#online)
+- [Thoughts on Popular Wine Shops](#thoughts-on-popular-wine-shops): Total Wine, Trader Joe's, Supermarkets
+
 ## New York
 
 The greatest city in the world, and possibly the greatest wine city in the world as well. Tons of importers are located here, and there is no shortage of wine selection in New York. 
