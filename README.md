@@ -31,7 +31,8 @@ The greatest city in the world, and possibly the greatest wine city in the world
 However, they also have a retail store, which has really great selections of wine. For the most expensive wines, think First Growths and rare and cult wines like Screaming Eagle and Harlan Estate, Sotheby's is your top choice. 
 The prices are reasonable, and you can guarantee authenticity for sure, otherwise you can bring the wine back to them. They also do van shipping if you spend a certain amount, and the service overall is impeccable, as you would expect from such a prestigious auction house.
 In addition, if you are in need of a cellar starter, they offer a service where they can build you a cellar collection, given a budget. Finally, if you are interested in wine futures, Sotheby's is the place to go.
-- [PJ Wine](https://pjwine.com/): They have a [cost sale](https://pjwine.com/pages/cost-sale) that gets better the more wine you buy based on the previous year. I do think PJ is still better for spirits though (consistently the best prices in all of NYC). 
+- [PJ Wine](https://pjwine.com/): They have a [cost sale](https://pjwine.com/pages/cost-sale) that gets better the more wine you buy based on the previous year. I do think PJ is still better for spirits though (consistently the best prices in all of NYC).
+- [All Star Wines](https://www.allstarwine.com/): They are in upstate NY (Latham), but at least from the prices, they have really good deals and a huge selection. They also have an aquarium and a stingray. I hope to visit someday.
 
 ## California
 
